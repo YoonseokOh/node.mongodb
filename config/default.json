@@ -1,0 +1,14 @@
+{
+  "cfg": {
+    "mongo": {
+      "user": "",
+      "password": "",
+      "port": 27017,
+      "database": "test",
+      "option": {
+
+      }
+    },
+    "env": "development"
+  }
+}
